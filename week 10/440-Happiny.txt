@@ -1,0 +1,1 @@
+It'll store anything white, small, and round inside its pouch. Although it can be overloaded and then cannot move.

@@ -1,0 +1,1 @@
+It consumes dreams, then emits mist, the color of which corresponding to if the consumed dream was a good one or a nightmare.

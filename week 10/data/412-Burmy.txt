@@ -1,0 +1,1 @@
+When Burmy breaks its cloak in battle, it will rebuild it using materials nearby. Its new cloak will become:"Plant Cloak Burmy" if it's in a forest,

@@ -1,0 +1,1 @@
+It will automatically fight Zangoose, its rival, until something stops them or one runs away.

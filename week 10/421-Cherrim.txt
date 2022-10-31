@@ -1,0 +1,1 @@
+Capable of changing between "Overcast" and "Sunshine" forms depending on in-battle weather effects.

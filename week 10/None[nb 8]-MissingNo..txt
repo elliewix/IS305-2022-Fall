@@ -1,0 +1,1 @@
+An error handler species, "Missing Number" was created to handle attempts at accessing nonexistent Pokémon species.[79][80] It is regarded as one of the most famous and popular glitches in video game history.[81] This "Pokemon" has led to several urban legends and creepypastas.
