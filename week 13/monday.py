@@ -101,6 +101,7 @@ def ngram_letters(name, num):
                 break
             grams.append(name[i:i + num])
     return grams
+
 chunks = []
 
 [chunks.extend(ngram_letters(n, 2)) for n in names]
@@ -114,7 +115,7 @@ for _ in range(10):
     len_choice = random.choice(name_lengths)
     while len(name) < len_choice:
         name += random.choice(chunks)
-    chunkies.append(name.title())
+    chunkies.append(name[:len_choice].title())
 
 print(chunkies)
 
