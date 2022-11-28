@@ -1,0 +1,92 @@
+[
+    {
+        "name": "snivy",
+        "type": "grass",
+        "nickname": "you do this one",
+        "base_hp": 134.7737541745121,
+        "current_hp": 134.7737541745121,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "snom",
+        "type": "ice",
+        "nickname": "you do this one",
+        "base_hp": 19.49535464235105,
+        "current_hp": 19.49535464235105,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "snivy",
+        "type": "grass",
+        "nickname": "you do this one",
+        "base_hp": 36.762898264624994,
+        "current_hp": 36.762898264624994,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "pikachu",
+        "type": "electric",
+        "nickname": "you do this one",
+        "base_hp": 17.03364025236955,
+        "current_hp": 17.03364025236955,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "eevee",
+        "type": "normal",
+        "nickname": "you do this one",
+        "base_hp": 62.099561714463704,
+        "current_hp": 62.099561714463704,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "pikachu",
+        "type": "electric",
+        "nickname": "you do this one",
+        "base_hp": 8.265064195539768,
+        "current_hp": 8.265064195539768,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "snom",
+        "type": "ice",
+        "nickname": "you do this one",
+        "base_hp": 43.98493492825129,
+        "current_hp": 43.98493492825129,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "snivy",
+        "type": "grass",
+        "nickname": "you do this one",
+        "base_hp": 73.47174717020381,
+        "current_hp": 73.47174717020381,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "pikachu",
+        "type": "electric",
+        "nickname": "you do this one",
+        "base_hp": 18.59493981383458,
+        "current_hp": 18.59493981383458,
+        "wins": 0,
+        "losses": 0
+    },
+    {
+        "name": "eevee",
+        "type": "normal",
+        "nickname": "you do this one",
+        "base_hp": 5,
+        "current_hp": 5,
+        "wins": 0,
+        "losses": 0
+    }
+]
