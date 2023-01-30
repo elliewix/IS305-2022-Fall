@@ -29,4 +29,4 @@ my_friend['current_hp'] = hp
 my_friend['wins'] = 0
 my_friend['losses'] = 0
 
-
+print(my_friend)
